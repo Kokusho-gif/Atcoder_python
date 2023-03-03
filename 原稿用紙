@@ -1,15 +1,16 @@
-# 問題
+'''
+問題
 
 
-# URL 
+URL 
 
 
-# 入出力例
-# input: 
+入出力例
+input: 
 
 
-# output:
-
+output:
+'''
 
 
 def main():
